@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakmuzzi
 - 👀 I’m interested in learning how be a developer 
-- 📫 How to reach me (+2348147768416)
+- 📫 How to reach me (muzzammil_b)
 
 <!---
 hakmuzzi/hakmuzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
